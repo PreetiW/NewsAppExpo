@@ -38,6 +38,51 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApp/5/components/CategoryCard/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApp/6/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#103#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewsApp/6/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsApp/6/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NewsApp/5/screens/HomeScreen/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -49,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NewsApp/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -73,6 +118,8 @@
         <option value="$PROJECT_DIR$/NewsApp/4/components/CategoryCard/index.js" />
         <option value="$PROJECT_DIR$/NewsApp/5/screens/HomeScreen/index.js" />
         <option value="$PROJECT_DIR$/NewsApp/App.js" />
+        <option value="$PROJECT_DIR$/NewsApp/5/components/CategoryCard/index.js" />
+        <option value="$PROJECT_DIR$/NewsApp/6/routes.js" />
       </list>
     </option>
   </component>
@@ -114,30 +161,22 @@
               <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
               <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
               <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
               <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
               <item name="screens" type="462c0819:PsiDirectoryNode" />
               <item name="HomeScreen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsListScreen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,16 +215,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533404496646</updated>
-      <workItem from="1533404501939" duration="868000" />
+      <workItem from="1533404501939" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="868000" />
+    <option name="totallyTimeSpent" value="1139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920762" visible="true" weight="0.24982257" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -267,15 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewsApp/5/screens/NewsListScreen/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-194">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NewsApp/5/screens/HomeScreen/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -293,6 +322,52 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/5/screens/NewsListScreen/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/5/components/CategoryCard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/6/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/6/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#103#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/6/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>

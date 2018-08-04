@@ -9,13 +9,13 @@
 
 
 import React, { Component } from 'react';
-import HomeScreen from './5/screens/HomeScreen';
+import RootStack from './6/routes';
 
 type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
-      <HomeScreen />
+        <RootStack />
     );
   }
 }
