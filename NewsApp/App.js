@@ -9,7 +9,7 @@
 
 
 import React, { Component } from 'react';
-import HomeScreen from './1/screens/HomeScreen';
+import HomeScreen from './2/screens/HomeScreen';
 
 type Props = {};
 export default class App extends Component<Props> {
