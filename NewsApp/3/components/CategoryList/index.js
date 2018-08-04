@@ -20,7 +20,7 @@ Pass data as a prop
 // }
 
 
-export default class CategoryListScreen extends Component<Props> {
+export default class CategoryList extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>

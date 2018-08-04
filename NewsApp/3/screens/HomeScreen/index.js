@@ -8,6 +8,7 @@ import { Text, View, Image } from 'react-native';
 import styles from './styles';
 
 import Title from './../../components/Title';
+import CategoryList from './../../components/CategoryList';
 
 export default class HomeScreen extends Component<Props> {
   render() {
@@ -18,6 +19,8 @@ export default class HomeScreen extends Component<Props> {
         <Image style={styles.image} source={require('../../../assets/background.jpg')}/>
         {/*<Image style={styles.image}
                source={{uri: 'https://facebook.github.io/react-native/docs/assets/favicon.png'}}/>*/}
+        <CategoryListScreen/>       
+
       </View>
     );
   }
