@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image, TouchableNativeFeedback } from 'react-native';
+import { View, Image, TouchableOpacity } from 'react-native';
 import styles from './styles';
 
 import Title from './../Title';
@@ -12,9 +12,9 @@ export default class CategoryCard extends Component {
   render() {
     const { data } = this.props;
     return (
-      <TouchableNativeFeedback onPress={this.onPressHandler}>
+      <TouchableOpacity onPress={this.onPressHandler}>
         <View style={styles.card}>
-          <Image 
+          <Image
             resizeMode="cover"
             source={data.imageSource}
           style={styles.imageContainer}/>
@@ -25,7 +25,7 @@ export default class CategoryCard extends Component {
             </Description>
           </View>
         </View>
-      </TouchableNativeFeedback>
+      </TouchableOpacity>
     )
   }
 }
