@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe41089f-2a69-447a-806b-8c2c785cb769" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/NewsApp/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/NewsApp/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="fe41089f-2a69-447a-806b-8c2c785cb769" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,13 +51,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NewsApp/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewsApp/7/components/NewsListItemCard/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/NewsApp/7/components/CategoryCard/index.js" />
         <option value="$PROJECT_DIR$/NewsApp/7/screens/HomeScreen/index.js" />
         <option value="$PROJECT_DIR$/NewsApp/App.js" />
+        <option value="$PROJECT_DIR$/NewsApp/7/components/NewsListItemCard/index.js" />
       </list>
     </option>
   </component>
@@ -124,37 +135,7 @@
               <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
               <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
               <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="CategoryCard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NewsAppExpo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NewsAppExpo" type="462c0819:PsiDirectoryNode" />
-              <item name="NewsApp" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="complete" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,16 +174,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533404496646</updated>
-      <workItem from="1533404501939" duration="2113000" />
+      <workItem from="1533404501939" duration="2261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2113000" />
+    <option name="totallyTimeSpent" value="2261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920762" visible="true" weight="0.24982257" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -424,6 +404,16 @@
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsApp/7/components/NewsListItemCard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

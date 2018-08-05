@@ -9,7 +9,7 @@
 
 
 import React, { Component } from 'react';
-import RootStack from './7/routes';
+import RootStack from './complete/routes';
 
 type Props = {};
 export default class App extends Component<Props> {
