@@ -26,7 +26,7 @@ const routes = {
 }
 
 const stackNavigatorConfig = {
-  initialRouteName: 'Categories',
+  initialRouteName: 'Home',
   mode: 'card',
   headerMode: 'screen',
   //headerMode: 'float',
