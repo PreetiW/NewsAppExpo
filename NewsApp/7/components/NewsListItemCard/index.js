@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image, TouchableNativeFeedback } from 'react-native';
+import { View, Image, TouchableOpacity } from 'react-native';
 import styles from './styles';
 
 import Title from './../Title';
@@ -10,13 +10,13 @@ export default class NewsListItemCard extends Component {
     const { navigation, data } = this.props;
     navigation.navigate('NewsArticleWeb', {
       title: data.title,
-      url: data.url 
+      url: data.url
     })
   }
   render() {
     const  { data } = this.props
     return (
-      <TouchableNativeFeedback onPress={this.onCardPress}>
+      <TouchableOpacity onPress={this.onCardPress}>
         <View style={styles.card}>
           <Image style={styles.imageContainer}
           resizeMode="cover"
@@ -30,7 +30,7 @@ export default class NewsListItemCard extends Component {
             </Description>
           </View>
         </View>
-      </TouchableNativeFeedback>
+      </TouchableOpacity>
     )
   }
 }
