@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe41089f-2a69-447a-806b-8c2c785cb769" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/NewsApp/complete/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/NewsApp/complete/routes.js" afterDir="false" />
-    </list>
+    <list default="true" id="fe41089f-2a69-447a-806b-8c2c785cb769" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -135,6 +133,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>categories</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/NewsApp/complete</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -292,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533404496646</updated>
-      <workItem from="1533404501939" duration="3024000" />
+      <workItem from="1533404501939" duration="3096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3024000" />
+    <option name="totallyTimeSpent" value="3096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
