@@ -19,7 +19,7 @@ export default class HomeScreen extends Component<Props> {
         <Image style={styles.image} source={require('../../../assets/background.jpg')}/>
         {/*<Image style={styles.image}
                source={{uri: 'https://facebook.github.io/react-native/docs/assets/favicon.png'}}/>*/}
-        <CategoryListScreen/>       
+        <CategoryList/>       
 
       </View>
     );
